@@ -2,7 +2,7 @@
 
 /**
  * numLength - returns the length of string
- * @num: operand number
+ * @num : operand number
  * Return: number of digits
  */
 
@@ -53,7 +53,7 @@ int main (void)
 		f20 = tmpo;
 
 		if (i != 98)
-			printf(",");
+			printf(", ");
 		else
 			printf("\n");
 		i++;
