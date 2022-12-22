@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - starts execution
+ * Return: 0
+ */
 
 int main(void)
 {
