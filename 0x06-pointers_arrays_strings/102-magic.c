@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - starts executing the file
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
